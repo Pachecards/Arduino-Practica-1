@@ -23,3 +23,4 @@ Ejercicio 2; 3 Leds consecutivas
 
 En el siguiente ejercicio seguimos con nuestras pruebas con LED, en esta ocasión, procedemos a incluir 2 luces LED más y a coordinarlas
 entre si.
+
