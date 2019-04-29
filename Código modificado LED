@@ -1,0 +1,20 @@
+/* El int de abajo sirve para indicar en que puerto recibirá la corriente el complemento, en este caso, la LED. */
+int led = 13;
+
+void setup() {
+/* Le indicamos al programa que nuestro puerto output es una LED. */
+  pinMode(led, OUTPUT);
+}
+
+void loop() {
+/* Indica la potencia con la que el LED recibirá la electricidad. */
+  digitalWrite(led, HIGH);   
+  
+/* Cantidad de tiempo que tarda en encenderse nuestro LED, que será en este caso, 1 segundo. */
+  delay(1000);         
+  
+/* Reduce la corriente que recibe la luz LED, apagándola en la práctica. */
+  digitalWrite(led, LOW);    
+  
+/* Cantidad de tiempo que habrá entre loops. */
+  delay(1000);               
