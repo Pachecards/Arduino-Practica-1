@@ -1,4 +1,4 @@
-# Índice prácticas Arduino
+# ÍndicePrácticasArduino
 
 Por Iago Sieiro Junto a: Miguel Gomez y Efrén Alonso.
 
