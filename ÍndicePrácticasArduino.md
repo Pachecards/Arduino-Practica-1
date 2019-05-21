@@ -1,4 +1,8 @@
-Por Iago Sieiro Junto a: Miguel Gomez y Efrén Alonso
+# Índice prácticas Arduino
+
+Por Iago Sieiro Junto a: Miguel Gomez y Efrén Alonso.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Aquí encontraréis un índice de las 6 prácticas realizadas por mis compañeros y yo sobre una serie de dispositivos Arduino en los que pasamos de encender Led manualmente a detectar la distancia de un objeto usando un sensor de proximidad.
 
